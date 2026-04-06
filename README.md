@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Upasana ⚡</h1>
+<h1 align="center">Upasana </h1>
 <p align="center">“Systems don’t fail — they behave as designed.”</p>
 <img src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" width="100%" />
 
@@ -25,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=cleverlyblue0009&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><sub>controlled systems. intentional outcomes.</sub></p>
