@@ -16,9 +16,10 @@
 
 ![Top Langs](https://stats.dooboo.io/api/github-top-langs?username=cleverlyblue0009&theme=dark)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cleverlyblue0009&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🔥 GitHub Info
 
+![Followers](https://img.shields.io/github/followers/cleverlyblue0009?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/cleverlyblue0009?style=for-the-badge)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cleverlyblue0009&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
