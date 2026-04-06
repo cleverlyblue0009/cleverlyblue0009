@@ -25,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=cleverlyblue0009&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<p align="center"><sub>controlled systems. intentional outcomes.</sub></p>
+<p align="center">controlled systems. intentional outcomes.</sub></p>
