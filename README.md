@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/e2/c5/1c/e2c51c9d84f79268fcb39eaa25b6a6dd.gif" width="100%" height="120"/>
+<img src="https://in.pinterest.com/pin/928515648164147386/" width="100%" height="120"/>
 <h1 align="center">Upasana</h1>
 <p align="center">“I build systems that think — and worlds that respond.”</p>
 <img src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" width="100%" />
