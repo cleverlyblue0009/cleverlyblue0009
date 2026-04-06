@@ -20,10 +20,6 @@
 ![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cleverlyblue0009&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=cleverlyblue0009&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <p align="center">Controlled systems. Intentional outcomes.</sub></p>
