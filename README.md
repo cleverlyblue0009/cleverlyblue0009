@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://stats.dooboo.io/api/github-stats?username=cleverlyblue0009&theme=dark)
+<a href="https://stats.hyo.dev/stats/cleverlyblue0009"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=cleverlyblue0009" width="600" /></a>
 
 ![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
 
