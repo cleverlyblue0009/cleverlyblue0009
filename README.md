@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://stats.hyo.dev/stats/cleverlyblue0009"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=cleverlyblue0009" width="600" /></a>
+![Stats](https://github-readme-stats.vercel.app/api?username=cleverlyblue0009&theme=github_dark&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
 
