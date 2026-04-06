@@ -14,12 +14,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
 
-![Top Langs](https://stats.dooboo.io/api/github-top-langs?username=cleverlyblue0009&theme=dark)
 
-## 🔥 GitHub Info
-
-![Followers](https://img.shields.io/github/followers/cleverlyblue0009?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/cleverlyblue0009?style=for-the-badge)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cleverlyblue0009&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
