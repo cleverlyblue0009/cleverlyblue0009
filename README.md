@@ -10,11 +10,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://stats.dooboo.io/api/github-stats?username=cleverlyblue0009)
+![Stats](https://stats.dooboo.io/api/github-stats?username=cleverlyblue0009&theme=dark)
 
 ![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
 
-![Top Langs](https://stats.dooboo.io/api/github-top-langs?username=cleverlyblue0009)
+![Top Langs](https://stats.dooboo.io/api/github-top-langs?username=cleverlyblue0009&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cleverlyblue0009&theme=radical&no-frame=false&no-bg=false&margin-w=4)
