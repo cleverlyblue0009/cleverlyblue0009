@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cleverlyblue0009&theme=github_dark&cache_seconds=86400)
+![Graph](https://ghchart.rshah.org/cleverlyblue0009)
 
 ![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
 
