@@ -1,3 +1,4 @@
+<img src="https://giffiles.alphacoders.com/217/217729.gif" width="100%" />
 # 💫 About Me:
 🔭 I’m currently working on an AI-powered Intent Modeling Engine (EIME) and a Roblox game  <br><br>👯 I’m looking to collaborate on AI/ML systems, game development, or creative full-stack projects  <br><br>🤝 I’m looking for help with deploying scalable AI models and improving system architecture  <br><br>🌱 I’m currently learning advanced AI/ML, backend systems, and interactive game design  <br><br>💬 Ask me about AI, system design, or building projects from idea to execution  <br><br>⚡ Fun fact: I enjoy building systems where behavior feels intentional — whether it’s AI or gameplay
 
