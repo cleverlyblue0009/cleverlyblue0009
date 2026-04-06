@@ -23,4 +23,4 @@
 <p align="center">
 
 <p align="center">Controlled systems. Intentional outcomes.</sub></p>
-<img align="center" src="" width="100%" height="200" />
+<img align="center" src="./bottom banner.jpg" width="100%" height="200" />
