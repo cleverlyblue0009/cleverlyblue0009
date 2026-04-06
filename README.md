@@ -1,7 +1,7 @@
 <img src="./Github banner.jpg" width="100%" height="200"/>
 <h1 align="center">Upasana</h1>
 <p align="center">“I build systems that think — and worlds that respond.”</p>
-<img align="center" src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" width="100%" height="120" />
+<img align="center" src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" width="100%" height="170" />
 
 💫 About Me:
 🔭 I’m currently working on an AI-powered Intent Modeling Engine (EIME) and a Roblox game  <br><br>👯 I’m looking to collaborate on AI/ML systems, game development, or creative full-stack projects  <br><br>🤝 I’m looking for help with deploying scalable AI models and improving system architecture  <br><br>🌱 I’m currently learning advanced AI/ML, backend systems, and interactive game design  <br><br>💬 Ask me about AI, system design, or building projects from idea to execution  <br><br>⚡ Fun fact: I enjoy building systems where behavior feels intentional — whether it’s AI or gameplay
