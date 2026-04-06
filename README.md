@@ -1,5 +1,5 @@
 <img src="./Github banner.jpg" width="100%" height="200"/>
-<h1 align="center">Upasana</h1>
+<h1 align="center">Upasana Bhaumik</h1>
 <p align="center">“I build systems that think — and worlds that respond.”</p>
 <img align="center" src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" width="100%" height="200" />
 
