@@ -16,9 +16,9 @@
 ## 📊 GitHub Stats
 <p align="center">
 ![Graph](https://ghchart.rshah.org/cleverlyblue0009)
-</p>
-![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
 
+![Streak](https://streak-stats.demolab.com?user=cleverlyblue0009&theme=tokyonight)
+</p>
 
 <p align="center">
 
