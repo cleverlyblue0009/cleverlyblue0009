@@ -3,9 +3,8 @@
 <p align="center">“I build systems that think — and worlds that respond.”</p>
 <img align="center" src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" width="100%" height="200" />
 <p align="center">
-💫 About Me:
-🔭 I’m currently working on an AI-powered Intent Modeling Engine (EIME) and a Roblox game  <br><br>👯 I’m looking to collaborate on AI/ML systems, game development, or creative full-stack projects  <br><br>🤝 I’m looking for help with deploying scalable AI models and improving system architecture  <br><br>🌱 I’m currently learning advanced AI/ML, backend systems, and interactive game design  <br><br>💬 Ask me about AI, system design, or building projects from idea to execution  <br><br>⚡ Fun fact: I enjoy building systems where behavior feels intentional — whether it’s AI or gameplay
-
+ About Me:
+I’m currently working on an AI-powered Intent Modeling Engine (EIME) and a Roblox game  <br><br>👯 I’m looking to collaborate on AI/ML systems, game development, or creative full-stack projects  <br><br> I’m looking for help with deploying scalable AI models and improving system architecture  <br><br>I’m currently learning advanced AI/ML, backend systems, and interactive game design  <br><br> Ask me about AI, system design, or building projects from idea to execution  <br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/merc_strings)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upasanabhaumik67@gmail.com) 
